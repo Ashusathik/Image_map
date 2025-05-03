@@ -115,10 +115,9 @@ Execute the programs and publish them.
   </html>
 ~~~
 # OUTPUT
-![Screenshot (97)](https://github.com/user-attachments/assets/4c93741f-f127-4544-a460-ae7ac99b1bef)
-![Screenshot (98)](https://github.com/user-attachments/assets/c1d5a4cf-f09c-44b5-a593-7d1efed9a03b)
-![Screenshot (99)](https://github.com/user-attachments/assets/ec06b71a-5729-4a4c-8d0e-ec1d03728120)
-![Screenshot (100)](https://github.com/user-attachments/assets/59b6dc97-5424-455d-94d5-0c1efe878665)
+![Screenshot 2025-04-29 211357](https://github.com/user-attachments/assets/e37b86fe-2d2f-4867-8b69-ff070b8f46fb)
+![Screenshot 2025-04-29 211415](https://github.com/user-attachments/assets/171593c6-e4a4-4e03-8303-289494b2a2b9)
+![Screenshot 2025-04-29 211433](https://github.com/user-attachments/assets/610d4682-4750-4d8a-9180-40ace0e718ed)
 
 
 # RESULT
